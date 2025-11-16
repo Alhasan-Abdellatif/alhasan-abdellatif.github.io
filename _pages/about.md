@@ -29,7 +29,7 @@ latest_posts:
 
 Hi, I am Alhasan , a Machine Learning scientist.
 
-My research focuses on applying deep learning to scientific data. In previous projects, I have used Generative Adversarial Networks (GANs) to tackle geological and geospatial problems, developed Graph Neural Networks (GNNs) for molecular property prediction, and trained EfficientNet models to classify melanoma cases using medical images and patient demographics.
+My research focuses on applying deep learning to scientific data. In previous projects, I have applied Generative Adversarial Networks (GANs) to geological and geospatial problems, developed Graph Neural Networks (GNNs) for molecular property prediction, and trained EfficientNet models to classify melanoma cases using medical images and patient demographics.
 
 I’m  exploring opportunities in data science, scientific ML, and AI for healthcare applications.
 
